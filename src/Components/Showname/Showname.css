@@ -1,0 +1,9 @@
+.show{
+    width: 270px;
+    display: flex;
+    color:white;
+    background-color:rgba(32, 178, 171, 0.699)
+}
+.show img{
+    height:70px;
+}
